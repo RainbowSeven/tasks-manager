@@ -1,4 +1,5 @@
 from selenium import webdriver
+import unittest
 
 browser = webdriver.Chrome('E:\\Program Files\\Google\\Chrome\\Application\\chromedriver.exe')
 
